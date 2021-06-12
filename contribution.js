@@ -15,7 +15,7 @@ const commit = async () => {
  if (today.getFullYear() > 2021) {
   return;
  }
- let commitNumber = random(1, 10);
+ let commitNumber = random(1, 1000);
  let dayNumber = random(1, 3);
  while (commitNumber) {
   await file(commitTime);

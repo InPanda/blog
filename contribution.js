@@ -16,7 +16,7 @@ const commit = async () => {
   return;
  }
  let commitNumber = random(1, 10);
- let dayNumber = random(1, 10);
+ let dayNumber = random(1, 3);
  while (commitNumber) {
   await file(commitTime);
   await cmd("git status");

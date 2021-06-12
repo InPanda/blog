@@ -12,7 +12,7 @@ const commit = async () => {
  let commitTime = `${today.getFullYear()}.${
   today.getMonth() + 1
  }.${today.getDate()}`;
- if (today.getFullYear() > 2019) {
+ if (today.getFullYear() > 2021) {
   return;
  }
  let commitNumber = random(1, 10);

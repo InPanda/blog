@@ -1,7 +1,7 @@
 module.exports = {
   "title": "wangtao\'blog",
   "description": "记录一些前端知识",
-  "dest": ".vuepress/dist",
+  "dest": "./dist",
   "base": '/blog/',
   "repo":"https://github.com/InPanda/blog.git",
   "head": [

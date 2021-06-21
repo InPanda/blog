@@ -5,6 +5,7 @@ tags:
  - Echarts
 categories: 
  - Echarts
+sidebar: auto
 ---
 ---
 ### 1 、Echarts，xaxis文字超出自动换行显示

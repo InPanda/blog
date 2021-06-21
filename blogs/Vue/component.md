@@ -1,6 +1,7 @@
 ---
 title: Vue组件
 date: 2021-06-21
+sidebar: auto
 tags:
  - Vue组件
 categories: 

@@ -1,6 +1,7 @@
 ---
 title: Django语法总结
 date: 2021-06-21
+sidebar: auto
 tags:
  - Django Python
 categories: 

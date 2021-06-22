@@ -52,7 +52,7 @@ module.exports = {
         "items": [
           {
             "text": "GitHub",
-            "link": "https://www.borderpanda@163.com",
+            "link": "https://github.com/InPanda",
             "icon": "reco-github"
           }
         ]

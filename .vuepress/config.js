@@ -51,7 +51,7 @@ module.exports = {
         "icon": "reco-message",
         "items": [
           {
-            "text": "GitHub",
+            "text": "Github",
             "link": "https://github.com/InPanda",
             "icon": "reco-github"
           }
@@ -80,22 +80,20 @@ module.exports = {
     "friendLink": [
       {
         "title": "边城乌苏",
-        "desc": "Enjoy when you can, and endure when you must.",
-        "email": "www.borderpanda@163.com",
-        "link": "https://www.recoluan.com"
+        "desc": "人间有味是清欢",
+        "link": "https://github.com/InPanda"
       },
       {
-        "title": "vuepress-theme-reco",
-        "desc": "A simple and beautiful vuepress Blog & Doc theme.",
-        "avatar": "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
-        "link": "https://vuepress-theme-reco.recoluan.com"
+        "title": "ByteDance-panjiachen",
+        "desc": "字节跳动Front-end",
+        "link": "https://panjiachen.github.io/awesome-bookmarks/repository/"
       }
     ],
     "logo": "/logo.png",
     "search": true,
     "searchMaxSuggestions": 10,
     "lastUpdated": "Last Updated",
-    "author": "",
+    "author": "wangtao",
     "authorAvatar": "/avatar.png",
     "record": "xxxx",
     "startYear": "2017"

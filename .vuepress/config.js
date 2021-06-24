@@ -1,5 +1,5 @@
 module.exports = {
-  "title": "wangtao\'blog",
+  "title": "wangtao\'s blog",
   "description": "记录一些前端知识",
   "dest": "./dist",
   "base": '/blog/',

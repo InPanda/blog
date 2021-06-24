@@ -248,7 +248,7 @@ drawPie(dateArr, title) {
 
 ` 如果设置圆环背部填充背景色，可以在series中多加一个大对象用于控制内部填充显示颜色 `
 
-![](.\/cicle.jpg)
+![](../imgs/cicle.jpg)
 
 ```js
 drawCircle () {

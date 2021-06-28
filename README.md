@@ -1,7 +1,7 @@
 ---
 home: true
-heroText: vuepress-theme-reco
-tagline: A simple and beautiful vuepress blog theme.
+heroText: Code Your Life
+tagline: 人间有味是清欢
 # heroImage: /hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',

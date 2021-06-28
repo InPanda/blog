@@ -17,8 +17,10 @@ module.exports = {
       {
         "name": "viewport",
         "content": "width=device-width,initial-scale=1,user-scalable=no"
-      }
-    ]
+      },
+    ],
+    ["meta", { "name": "keywords", "content": "前端,js,css,puppeteer接口识别,NodeJs" }],
+    ['meta', { name: 'author', content: '王涛' }],
   ],
   "theme": "reco",
   "themeConfig": {

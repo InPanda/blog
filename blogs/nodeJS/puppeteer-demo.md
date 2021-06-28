@@ -11,6 +11,7 @@ sidebar: auto
 
 # puppeteer 爬取网站图片缩略图(爬取接口response)
 
+```js
 puppeteer-demo
 ├── dist  爬取数据文件存放文件夹
 ├── helpers  帮助文件夹
@@ -28,6 +29,7 @@ puppeteer-demo
 ├── package-lock.json
 ├── package.json  npm依赖
 └── README.md
+```
 
 ## 一.helpers
 

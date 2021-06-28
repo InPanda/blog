@@ -20,6 +20,7 @@ sidebar: auto
 ## 2.npm包 proxy-chain
 
 ### 2.1 github链接：[ proxy-chain HTTP proxy server for Node.js ]( https://github.com/AlexGodard/proxy-chain/packages/555113 )
+npm链接：[proxy-chain](https://www.npmjs.com/package/proxy-chain)
 
 ### 2.2 puppeteer 代理Url
 

@@ -185,7 +185,7 @@ function handleClick () {
 
 为元素添加说明，如同 `element-ui` 的 `el-tooltip`（问号 `icon` 在鼠标覆盖后，展示说明文字）。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/zPh0erYjkib2iaLOS83CHnNZONNAZcjoibyeUjDXBDwibbGsWibDwlLlVib1rMZ6mgAvLFTAZOZkBlyzuOmJasuVvjdg/640?wx_fmt=png)
+![tooltip](../imgs/tooltip.png)
  指令的代码如下：
 
 ```js
@@ -271,9 +271,9 @@ textOverflow: ellipsis;
 
 使用指令效果：
 
-![](https://mmbiz.qpic.cn/mmbiz_png/zPh0erYjkib2iaLOS83CHnNZONNAZcjoibycibdltevKhz9ReoJibnWP4IbxlXbbM0DzmaDZ5rtE00JXPSiaD1Efoia6g/640?wx_fmt=png)
+![ellipsis](../imgs/ellipsis.png)
 
-image.png
+ellipsis.png
 
 指令的代码如下：
 
@@ -309,9 +309,10 @@ export default function (el, binding) {
 
 可选指定元素，如果不指定则全局页面回到顶部。可选在元素偏移多少 `px` 后显示 `backtop` 元素，例如在滚动 `400px` 后显示回到顶部按钮。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/zPh0erYjkib2iaLOS83CHnNZONNAZcjoibyNRVUfWYJujt8Q6HRlxkOubYmSVrG0NFcsNArAgxHOu015780ooxzNw/640?wx_fmt=png)
+![top](../imgs/top.png)
 
-image.png
+
+top.png
 
 指令的代码如下：
 
@@ -382,9 +383,10 @@ export default {
 
 使用该指令可以显示缺省的空状态。可以传入默认图片（可选，默认无图片）、默认文字内容（可选，默认为暂无数据）、以及标示是否显示空状态（必选）。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/zPh0erYjkib2iaLOS83CHnNZONNAZcjoibynMT9ib5r38JAC5t9PIH3WIwCBa4aDr6Sern4cIfTl2WNW2db8ibQ6dPg/640?wx_fmt=png)
+![empty](../imgs/empty.png)
 
-image.png
+
+empty.png
 
 指令的代码如下：
 
@@ -448,8 +450,8 @@ emptyValue = {
 
 支持配置徽标的背景颜色、徽标形状；支持传入徽标上显示的数字。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/zPh0erYjkib2iaLOS83CHnNZONNAZcjoibyU9pZkykGtzkLAmsQmiab44FtOINgV8n80Po02nKJoF2Bicdx1zQIXqfw/640?wx_fmt=png)
- ![](https://mmbiz.qpic.cn/mmbiz_png/zPh0erYjkib2iaLOS83CHnNZONNAZcjoibysY3hReL9Wg1FrTqZqaiaSrtpvCcx9sJybXKaWQUu9C1ia2lV5WtcM3oQ/640?wx_fmt=png)
+![badge](../imgs/badge.png)
+
 
 指令的代码如下：
 
@@ -733,11 +735,6 @@ import '@/directives/index'
 
 除了将功能封装成组件，还可以多多考虑将一些简洁实用的功能放到 `deirect` 中。例如：常用的 `css` 样式、`js` 的一些操作、`utils` 中的一些工具方法、甚至是一个完整的组件都可以放进去（不过需要考虑一下性能和复杂度）。
 
-本文所写的所有指令源码收录于：
-
-https://github.com/Gesj-yean/vue-demo-collection
-
-> 作者： 掘金 - Huup_We
+> 本文所写的所有指令源码收录于：
 >
-> https://juejin.cn/post/6963840401899782175
-
+> https://github.com/Gesj-yean/vue-demo-collection

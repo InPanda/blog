@@ -4,7 +4,7 @@ date: 2021-06-28
 tags:
  - puppeteer 
 categories: 
- - nodeJS
+ - Node.js
 sidebar: auto
 ---
 ---

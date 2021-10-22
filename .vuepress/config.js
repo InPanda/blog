@@ -19,7 +19,7 @@ module.exports = {
         "content": "width=device-width,initial-scale=1,user-scalable=no"
       },
     ],
-    ["meta", { "name": "keywords", "content": "前端,js,css,puppeteer接口识别,NodeJs" }],
+    ["meta", { "name": "keywords", "content": "前端,js,css,puppeteer接口识别,Node.js" }],
     ['meta', { name: 'author', content: '王涛' }],
   ],
   "theme": "reco",

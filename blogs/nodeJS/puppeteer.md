@@ -4,7 +4,7 @@ date: 2021-06-22
 tags:
  - puppeteer 前端 截图 爬虫
 categories: 
- - nodeJS
+ - Node.js
 sidebar: auto
 ---
 ---

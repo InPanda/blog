@@ -9,8 +9,8 @@ sidebar: auto
 ---
 ---
 
+![util](../imgs/js_img/util.png)
 
-![](..\imgs\js_img\util.png)
 ### 1\. 数字操作
 
 #### （1）生成指定范围随机数

@@ -86,6 +86,11 @@ module.exports = {
         "link": "https://github.com/InPanda"
       },
       {
+        "title": "gitee",
+        "desc": "人间有味是清欢",
+        "link": "https://gitee.com/borderWusu"
+      },
+      {
         "title": "ByteDance-panjiachen",
         "desc": "字节跳动Front-end",
         "link": "https://panjiachen.github.io/awesome-bookmarks/repository/"

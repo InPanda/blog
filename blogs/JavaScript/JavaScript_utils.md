@@ -11,7 +11,7 @@ sidebar: auto
 
 ![util](../imgs/js_img/util.png)
 
-### 1\. 数字操作
+### 1. 数字操作
 
 #### （1）生成指定范围随机数
 
@@ -39,7 +39,7 @@ export const format = (n) => {
 }
 ```
 
-### 2\. 数组操作
+### 2. 数组操作
 
 #### （1）数组乱序
 
@@ -75,7 +75,7 @@ export const flatten = (arr) => {
 export const sample = arr => arr[Math.floor(Math.random() * arr.length)];
 ```
 
-### 3\. 字符串操作
+### 3. 字符串操作
 
 #### （1）生成随机字符串
 
@@ -164,7 +164,7 @@ export const toDBC = (str) => {
 
 ```
 
-### 4\. 格式转化
+### 4. 格式转化
 
 #### （1）数字转化为大写金额
 
@@ -234,7 +234,7 @@ export const intToChinese = (value) => {
 };
 ```
 
-### 5\. 操作存储
+### 5. 操作存储
 
 #### （1）存储 loalStorage
 
@@ -296,7 +296,7 @@ export const sessionStorageRemove = (key) => {
 };
 ```
 
-### 6\. 操作 cookie
+### 6. 操作 cookie
 
 #### （1）设置 cookie
 
@@ -334,7 +334,7 @@ export const delCookie = (key) => {
 };
 ```
 
-### 7\. 格式校验
+### 7. 格式校验
 
 #### （1）校验身份证号码
 
@@ -372,7 +372,7 @@ export const isIPv6 = (str) => {
 #### （5）校验是否为邮箱地址
 
 ```javascript
-export const isEmail = (value) {    return /^[a-zA-Z0-9_-]+@[a-zA-Z0-9_-]+(\.[a-zA-Z0-9_-]+)+$/.test(value);}
+export const isEmail = (value) {    return /^[a-zA-Z0-9_-]+@[a-zA-Z0-9_-]+(.[a-zA-Z0-9_-]+)+$/.test(value);}
 ```
 
 #### （6）校验是否为中国大陆手机号
@@ -421,7 +421,7 @@ export const isEmojiCharacter = (value) => {
 };
 ```
 
-### 8\. 操作 URL
+### 8. 操作 URL
 
 #### （1）获取 URL 参数列表
 
@@ -516,7 +516,7 @@ export const funcUrlDel = (name) => {
 }
 ```
 
-### 9\. 设备判断
+### 9. 设备判断
 
 #### （1）判断是移动还是 PC 设备
 
@@ -609,7 +609,7 @@ export const getExplorerInfo = () => {
 }
 ```
 
-### 10\. 浏览器操作
+### 10. 浏览器操作
 
 #### （1）滚动到页面顶部
 
@@ -695,7 +695,7 @@ export const exitFullscreen = () => {
 }
 ```
 
-### 11\. 时间操作
+### 11. 时间操作
 
 #### （1）当前时间
 
@@ -736,7 +736,7 @@ export const dateFormater = (formater, time) => {
 // dateFormater('YYYYMMDDHHmmss')
 ```
 
-### 12\. JavaScript 操作
+### 12. JavaScript 操作
 
 #### （1）阻止冒泡事件
 

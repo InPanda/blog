@@ -86,7 +86,7 @@ module.exports = {
         "link": "https://github.com/InPanda"
       },
       {
-        "title": "gitee",
+        "title": "my gitee",
         "desc": "人间有味是清欢",
         "link": "https://gitee.com/borderWusu"
       },

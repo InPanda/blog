@@ -91,6 +91,11 @@ module.exports = {
         "link": "https://gitee.com/borderWusu"
       },
       {
+        "title": "CSS-idea",
+        "desc": "一些CSS特效及思路",
+        "link": "https://inpanda.github.io/CSS-IDEA/"
+      },
+      {
         "title": "ByteDance-panjiachen",
         "desc": "字节跳动Front-end",
         "link": "https://panjiachen.github.io/awesome-bookmarks/repository/"
